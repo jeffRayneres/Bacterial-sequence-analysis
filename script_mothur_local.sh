@@ -1,4 +1,5 @@
 #!/bin/bash
+# Based on scripts: http://www.mothur.org/wiki/MiSeq_SOP and https://github.com/ekopylova/OTU-clustering.git
 
 threads=1
 
