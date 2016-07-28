@@ -1,9 +1,5 @@
 #!/bin/bash
-# This script closely follows the MiSeq SOP outlined here: http://www.mothur.org/wiki/MiSeq_SOP
-# Kozich JJ, Westcott SL, Baxter NT, Highlander SK, Schloss PD. (2013): Development of a
-# dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence
-# data on the MiSeq Illumina sequencing platform. Applied and Environmental Microbiology.
-# 79(17):5112-20.
+# Based on scripts: http://www.mothur.org/wiki/MiSeq_SOP and https://github.com/ekopylova/OTU-clustering.git
 
 #SBATCH -J An_m_J_R
 #SBATCH --partition=long
